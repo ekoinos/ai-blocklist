@@ -1,23 +1,102 @@
+# OpenAI / ChatGPT
 0.0.0.0 chat.openai.com
 0.0.0.0 chatgpt.com
 0.0.0.0 openai.com
+0.0.0.0 api.openai.com
+0.0.0.0 platform.openai.com
+0.0.0.0 auth.openai.com
+
+# Google Gemini / Bard
 0.0.0.0 gemini.google.com
 0.0.0.0 bard.google.com
+0.0.0.0 generativelanguage.googleapis.com
+0.0.0.0 ai.google.dev
+
+# Anthropic Claude
 0.0.0.0 claude.ai
+0.0.0.0 api.anthropic.com
+
+# Microsoft Copilot / Bing AI
 0.0.0.0 copilot.microsoft.com
+0.0.0.0 bing.com
+0.0.0.0 edgeservices.bing.com
+
+# Perplexity
 0.0.0.0 perplexity.ai
+0.0.0.0 www.perplexity.ai
+
+# Poe (multi-model AI)
 0.0.0.0 poe.com
+
+# Phind
 0.0.0.0 phind.com
+
+# You.com AI
 0.0.0.0 you.com
+
+# Character AI
 0.0.0.0 character.ai
+
+# Blackbox AI
 0.0.0.0 blackbox.ai
+
+# Jasper
 0.0.0.0 jasper.ai
+
+# Writesonic / Chatsonic
 0.0.0.0 writesonic.com
 0.0.0.0 chatsonic.com
+
+# DeepSeek
 0.0.0.0 deepseek.com
 0.0.0.0 chat.deepseek.com
+0.0.0.0 api.deepseek.com
+
+# Mistral
 0.0.0.0 mistral.ai
 0.0.0.0 chat.mistral.ai
+0.0.0.0 api.mistral.ai
+
+# Meta AI
 0.0.0.0 meta.ai
+
+# Grok / xAI
 0.0.0.0 x.ai
 0.0.0.0 grok.x.ai
+
+# Stability AI
+0.0.0.0 stability.ai
+0.0.0.0 api.stability.ai
+
+# Runway
+0.0.0.0 runwayml.com
+
+# Midjourney
+0.0.0.0 midjourney.com
+
+# Canva AI
+0.0.0.0 canva.com
+
+# Notion AI
+0.0.0.0 notion.so
+
+# GitHub Copilot
+0.0.0.0 copilot.github.com
+
+# HuggingFace
+0.0.0.0 huggingface.co
+0.0.0.0 api-inference.huggingface.co
+
+# Replicate
+0.0.0.0 replicate.com
+
+# Together AI
+0.0.0.0 together.ai
+0.0.0.0 api.together.xyz
+
+# OpenRouter
+0.0.0.0 openrouter.ai
+
+# Cohere
+0.0.0.0 cohere.ai
+0.0.0.0 api.cohere.ai
